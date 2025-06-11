@@ -1,0 +1,10 @@
+2025-Jun-03-07:27:27 : ETL process started.
+2025-Jun-03-07:30:15 : ETL process started.
+2025-Jun-03-09:00:31 : ETL process started.
+2025-Jun-03-09:01:38 : ETL process started.
+2025-Jun-03-09:01:38 : Data extracted successfully.
+2025-Jun-03-09:01:38 : Data transformed successfully.
+2025-Jun-03-09:01:38 : Data loaded to CSV: ./Top 10 Banks data.csv
+2025-Jun-03-09:01:38 : Data loaded to database: Banks_data.db
+2025-Jun-03-09:01:38 : Running SQL queries...
+2025-Jun-03-09:01:38 : ETL process completed.
